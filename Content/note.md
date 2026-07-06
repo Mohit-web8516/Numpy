@@ -83,7 +83,7 @@ arr.astype(np.float64)                    # convert dtype (returns a new array)
 
 ---
 
-## 4. Indexing, Slicing & Views vs Copies
+## 4.Indexing, Slicing & Views vs Copies
 ```python
 arr = np.array([10, 20, 30, 40, 50])
 arr[1:4]        # [20, 30, 40]
@@ -108,7 +108,7 @@ safe_slice = original[1:3].copy()
 
 ---
 
-## 5. Boolean Masking & Fancy Indexing
+## 5.Boolean Masking & Fancy Indexing
 This is the #1 tool for real data filtering.
 
 ```python
