@@ -98,7 +98,7 @@ arr2d[:, 0]     # [1, 4, 7]   -> entire first column
 ```python
 original = np.array([1, 2, 3, 4, 5])
 slice_ = original[1:3]
-slice_[0] = 99
+slice_[0] = 99 
 print(original)   # [1, 99, 3, 4, 5]  <- original CHANGED too!
 
 # To avoid this, explicitly copy:
