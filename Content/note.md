@@ -1,5 +1,5 @@
 # NumPy — Complete Concept Guide for Data Analysts
-> A consolidated revision reference covering everything a Data Analyst needs from NumPy — beyond just tutorial basics. Pair with your `numpy_notes.md` (tutorial-based) for full coverage.
+> A consolidated revision reference covering everything a Data Analyst needs from NumPy — beyond just tutorial basics. Pair with your `numpy_notes.md`  (tutorial-based) for full coverage.
 
 ---
 
